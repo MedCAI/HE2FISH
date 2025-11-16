@@ -47,7 +47,7 @@ python trainer_moe_clinic.py # pathology with electric health record
 ```
 
 ### 2.5 Testing
-Testing your SuRImage:
+Testing your HEFISH:
 ``` sh
 python tester_moe.py # only pathology
 python tester_moe_with_clinic.py # pathology with electric health record
