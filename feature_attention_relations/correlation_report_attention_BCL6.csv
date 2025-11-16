@@ -1,0 +1,353 @@
+,pearson_correlation
+percent_of_tissue_region,0.47122310102258125
+number of neoplastic cells,0.29105932838388016
+percent_of_cell_region,0.28303682831558946
+skew of cells' closeness_centrality,0.21712867283978401
+neoplastic cells: mean of their intesntiy_kurtosis,0.19071373434624952
+neoplastic cells: std of their intesntiy_kurtosis,0.17940369189265165
+number of necrosis cells,0.17119053614629162
+Local richness skew,0.14989302408082913
+connective cells: mean of their intesntiy_kurtosis,0.1454777245207214
+neoplastic cells: skew of their intensity_std,0.14077559913845206
+neoplastic cells: mean of their intensity_skew,0.13624151981311775
+Gloabl Simpson index,0.12703270644741285
+neoplastic cells: skew of their contrast,0.12077197641008088
+neoplastic cells: mean of their homogeneity,0.12008704543564494
+inflamatory cells: skew of their axis_minor_length,0.11856264429460676
+number of connective cells,0.11581826908092455
+no-neoplastic cells: std of their perimeter,0.11385468083915372
+Local Shannon index skew,0.1134770910104732
+neoplastic cells: std of their homogeneity,0.11257268905574475
+inflamatory cells: skew of their area,0.11164215834600281
+neoplastic cells: mean of their energy,0.1082139115354852
+inflamatory cells: skew of their perimeter,0.10594618325482202
+connective cells: mean of their intensity_skew,0.10495628742918613
+no-neoplastic cells: std of their axis_minor_length,0.10407703625241069
+no-neoplastic cells: std of their axis_major_length,0.10124537718020263
+no-neoplastic cells: std of their area,0.10075446960782108
+no-neoplastic cells: skew of their contrast,0.09820176000739402
+no-neoplastic cells: std of their intesntiy_kurtosis,0.09300967827271749
+inflamatory cells: mean of their intesntiy_kurtosis,0.0924872566555726
+neoplastic cells: std of their solidity,0.09021301518891482
+neoplastic cells: std of their energy,0.08940893219543122
+connective cells: mean of their eccentricity,0.085632653123547
+Local Simpson index skew,0.08518644982393346
+necrosis cells: mean of their intesntiy_kurtosis,0.08512900212362491
+neoplastic cells: skew of their intesntiy_kurtosis,0.08310404518387182
+neoplastic cells: skew of their intensity_skew,0.08284844760740036
+no-neoplastic cells: std of their homogeneity,0.08039305153662657
+no-neoplastic cells: mean of their homogeneity,0.07991956831665789
+no-neoplastic cells: kurtosis of their contrast,0.07983975665651981
+connective cells: mean of their homogeneity,0.07874690972076566
+neoplastic cells: std of their intensity_skew,0.07784131108296403
+connective cells: mean of their energy,0.07780336340277327
+neoplastic cells: kurtosis of their intensity_std,0.07764804083962326
+neoplastic cells: kurtosis of their intensity_mean,0.0773808446206554
+no-neoplastic cells: std of their dissimilarity,0.0749664062998678
+neoplastic cells: kurtosis of their contrast,0.07483803687137384
+no-neoplastic cells: skew of their axis_minor_length,0.0730503039075323
+no-neoplastic cells: mean of their intesntiy_kurtosis,0.0730265020604197
+inflamatory cells: skew of their axis_major_length,0.0712242208685934
+no-neoplastic cells: std of their intensity_skew,0.07053462750924071
+inflamatory cells: mean of their energy,0.0681162645602859
+no-neoplastic cells: std of their energy,0.0677035752743978
+inflamatory cells: skew of their contrast,0.067481438471019
+no-neoplastic cells: skew of their dissimilarity,0.06524743568171756
+no-neoplastic cells: std of their solidity,0.0635998879163196
+Local Renyi entropy (at alpha=infinity) skew,0.06257842523385507
+no-neoplastic cells: skew of their area,0.06222146370428963
+necrosis cells: mean of their intensity_skew,0.06164253334879099
+no-neoplastic cells: skew of their intesntiy_kurtosis,0.060144856582089214
+neoplastic cells: skew of their solidity,0.060062324902945455
+neoplastic cells: skew of their dissimilarity,0.05775513073368659
+no-neoplastic cells: mean of their energy,0.05775437947012867
+neoplastic cells: skew of their orientation,0.05368361896494154
+inflamatory cells: skew of their intensity_std,0.05362537317629628
+neoplastic cells: mean of their eccentricity,0.05353140753877126
+inflamatory cells: skew of their orientation,0.053255609919221486
+number of inflamatory cells,0.05271665435213469
+neoplastic cells: kurtosis of their intesntiy_kurtosis,0.05227958408968314
+no-neoplastic cells: kurtosis of their dissimilarity,0.05074285046841405
+no-neoplastic cells: mean of their eccentricity,0.04965307243748957
+no-neoplastic cells: std of their orientation,0.049208454413225314
+no-neoplastic cells: std of their contrast,0.048385294138039464
+inflamatory cells: mean of their intensity_skew,0.04836048546333461
+neoplastic cells: std of their axis_major_length,0.047132855698328556
+connective cells: mean of their axis_major_length,0.046242790136978094
+neoplastic cells: skew of their intensity_mean,0.045737650846293755
+inflamatory cells: skew of their dissimilarity,0.0452684287613122
+Infiltration of neoplastic cells in connective region,0.04458208212487444
+no-neoplastic cells: std of their eccentricity,0.044068772015118884
+neoplastic cells: kurtosis of their intensity_skew,0.04392346019653629
+connective cells: std of their intesntiy_kurtosis,0.04136711790957283
+number of no-neoplastic cells,0.04118207418570877
+neoplastic cells: std of their orientation,0.0411448346890983
+inflamatory cells: mean of their homogeneity,0.04111922915014398
+no-neoplastic cells: kurtosis of their intesntiy_kurtosis,0.04070571877824353
+no-neoplastic cells: std of their intensity_std,0.03913614568592873
+neoplastic cells: std of their perimeter,0.038978520119229074
+no-neoplastic cells: std of their intensity_mean,0.03864266651700839
+neoplastic cells: kurtosis of their eccentricity,0.036270935085581824
+connective cells: skew of their perimeter,0.0358849351231523
+Infiltration of neoplastic cells in necrosis region,0.03579108809027593
+no-neoplastic cells: skew of their intensity_skew,0.03524557396981201
+connective cells: skew of their solidity,0.03495470808984045
+no-neoplastic cells: skew of their intensity_mean,0.034545760166352434
+necrosis cells: kurtosis of their solidity,0.03352126015349789
+inflamatory cells: skew of their intensity_skew,0.03303254096250737
+no-neoplastic cells: mean of their intensity_skew,0.03159377347566843
+necrosis cells: kurtosis of their energy,0.03138074422125542
+necrosis cells: skew of their energy,0.030318035271476838
+necrosis cells: kurtosis of their axis_major_length,0.027832552957126475
+necrosis cells: skew of their axis_major_length,0.027548696262900293
+no-neoplastic cells: kurtosis of their solidity,0.027302400385254295
+necrosis cells: skew of their contrast,0.02728087869912766
+necrosis cells: mean of their energy,0.027070925643737823
+no-neoplastic cells: kurtosis of their eccentricity,0.02697281777291881
+necrosis cells: skew of their intensity_std,0.026596993585350913
+no-neoplastic cells: skew of their orientation,0.025575390857616315
+no-neoplastic cells: kurtosis of their intensity_mean,0.0249509584009149
+necrosis cells: kurtosis of their perimeter,0.0231820415588587
+connective cells: skew of their axis_major_length,0.02271869470695141
+connective cells: std of their homogeneity,0.022595431771415674
+connective cells: skew of their contrast,0.022240970649260148
+inflamatory cells: kurtosis of their contrast,0.021830624464738328
+inflamatory cells: std of their solidity,0.02116641453542165
+necrosis cells: skew of their homogeneity,0.01990089870510908
+inflamatory cells: skew of their intensity_mean,0.019895952009465895
+no-neoplastic cells: skew of their perimeter,0.019864277582009003
+connective cells: skew of their orientation,0.01912877662897351
+necrosis cells: skew of their perimeter,0.017821616868666193
+no-neoplastic cells: skew of their intensity_std,0.017815770369252148
+no-neoplastic cells: kurtosis of their energy,0.017566994029638783
+necrosis cells: skew of their intesntiy_kurtosis,0.01750115233815679
+no-neoplastic cells: skew of their energy,0.017247077183788564
+connective cells: mean of their perimeter,0.017004949479509535
+inflamatory cells: skew of their intesntiy_kurtosis,0.016829698249618035
+connective cells: std of their energy,0.01610408574768493
+Infiltration of neoplastic cells in inflamatory region,0.016069637500279184
+necrosis cells: mean of their eccentricity,0.015583299470604
+necrosis cells: kurtosis of their intesntiy_kurtosis,0.014986469043460359
+inflamatory cells: skew of their solidity,0.01497487409670715
+inflamatory cells: mean of their eccentricity,0.014874386710280739
+necrosis cells: kurtosis of their homogeneity,0.014481675300917481
+no-neoplastic cells: kurtosis of their intensity_std,0.014383563098497814
+connective cells: skew of their area,0.013589437920054494
+neoplastic cells: std of their intensity_std,0.013441092974690193
+connective cells: std of their axis_major_length,0.013403635269695418
+no-neoplastic cells: kurtosis of their homogeneity,0.011158254150118273
+no-neoplastic cells: kurtosis of their intensity_skew,0.011090216833201189
+Gloabl Richness (number of cell-types present),0.010468584815286239
+connective cells: skew of their dissimilarity,0.010078794673885233
+neoplastic cells: kurtosis of their dissimilarity,0.01004401559688741
+connective cells: skew of their intensity_mean,0.00998764299290805
+necrosis cells: mean of their homogeneity,0.008410895362408199
+necrosis cells: kurtosis of their contrast,0.008350691056717582
+necrosis cells: kurtosis of their area,0.0076182549138350385
+connective cells: kurtosis of their eccentricity,0.006786071925337476
+necrosis cells: kurtosis of their intensity_std,0.00614854538334662
+necrosis cells: kurtosis of their intensity_skew,0.0058078035149146685
+inflamatory cells: kurtosis of their intensity_std,0.0037168799547183337
+connective cells: std of their perimeter,0.003694797957126814
+connective cells: kurtosis of their intensity_mean,0.0035604114223173806
+necrosis cells: skew of their intensity_mean,0.00279708890011886
+necrosis cells: skew of their area,0.0018182525076629928
+no-neoplastic cells: kurtosis of their area,0.0017543606305087766
+no-neoplastic cells: mean of their orientation,0.001293557897945707
+connective cells: skew of their intensity_std,0.0008053460814032669
+necrosis cells: kurtosis of their intensity_mean,0.0007142348946530433
+connective cells: skew of their axis_minor_length,0.00043216446051082453
+Infiltration of neoplastic cells in no-neoplastic region,-9.316524464079276e-05
+necrosis cells: skew of their dissimilarity,-0.0006475822125619758
+inflamatory cells: kurtosis of their intesntiy_kurtosis,-0.0007314928059199815
+necrosis cells: kurtosis of their axis_minor_length,-0.0007878556749511911
+inflamatory cells: std of their intesntiy_kurtosis,-0.0022920398806690273
+no-neoplastic cells: kurtosis of their axis_minor_length,-0.0025131932954134575
+inflamatory cells: std of their axis_major_length,-0.002553344513922241
+necrosis cells: skew of their orientation,-0.003146103785848809
+necrosis cells: std of their intesntiy_kurtosis,-0.0037565342192150486
+necrosis cells: kurtosis of their orientation,-0.004410732200305912
+connective cells: kurtosis of their contrast,-0.004594406361922454
+no-neoplastic cells: skew of their axis_major_length,-0.004678273881529038
+inflamatory cells: skew of their energy,-0.005024648751683457
+inflamatory cells: std of their perimeter,-0.00934886724444
+necrosis cells: skew of their axis_minor_length,-0.009698522328589984
+inflamatory cells: kurtosis of their dissimilarity,-0.01002464000801327
+necrosis cells: skew of their eccentricity,-0.010061114439254618
+no-neoplastic cells: skew of their homogeneity,-0.010319594061918007
+necrosis cells: std of their homogeneity,-0.010798127814133156
+neoplastic cells: skew of their axis_minor_length,-0.011041718863820637
+necrosis cells: mean of their orientation,-0.011531377776125456
+no-neoplastic cells: kurtosis of their axis_major_length,-0.013315832649161382
+necrosis cells: kurtosis of their dissimilarity,-0.013622957588076445
+connective cells: std of their solidity,-0.013629259574817
+connective cells: skew of their eccentricity,-0.013629615963429664
+Infiltration of necrosis cells in neoplastic region,-0.01401401438743267
+neoplastic cells: std of their axis_minor_length,-0.014074691844723658
+neoplastic cells: skew of their area,-0.014898560157984037
+necrosis cells: std of their eccentricity,-0.015412480203388056
+necrosis cells: kurtosis of their eccentricity,-0.015798847439590716
+necrosis cells: std of their dissimilarity,-0.016741370670178522
+necrosis cells: skew of their intensity_skew,-0.017488388772463486
+necrosis cells: mean of their solidity,-0.017526730471467473
+connective cells: kurtosis of their axis_major_length,-0.018518718823106843
+inflamatory cells: skew of their eccentricity,-0.018953696182407297
+connective cells: kurtosis of their intensity_std,-0.018956212382623943
+kurtosis of cells' closeness_centrality,-0.019712447576513203
+neoplastic cells: skew of their axis_major_length,-0.020460210787135388
+connective cells: skew of their intesntiy_kurtosis,-0.02084537235215461
+inflamatory cells: std of their homogeneity,-0.020846992938427924
+no-neoplastic cells: kurtosis of their orientation,-0.021054676384497175
+connective cells: std of their intensity_skew,-0.02147672087458745
+necrosis cells: std of their orientation,-0.022100103251290207
+necrosis cells: std of their intensity_skew,-0.02211910000252105
+no-neoplastic cells: kurtosis of their perimeter,-0.022253348191411105
+connective cells: mean of their orientation,-0.022413657051818192
+necrosis cells: std of their energy,-0.022859422778495075
+necrosis cells: skew of their solidity,-0.02291117033559652
+neoplastic cells: skew of their perimeter,-0.023264468476916024
+connective cells: kurtosis of their dissimilarity,-0.023745111145700583
+necrosis cells: std of their solidity,-0.023910683656000437
+connective cells: kurtosis of their perimeter,-0.024092020393433503
+connective cells: skew of their intensity_skew,-0.02424997989395318
+connective cells: kurtosis of their area,-0.02461191705321258
+inflamatory cells: skew of their homogeneity,-0.024871070852954064
+neoplastic cells: kurtosis of their axis_major_length,-0.02580700950858593
+connective cells: std of their area,-0.02624103327369952
+connective cells: std of their dissimilarity,-0.02657366198592145
+Gloabl Renyi entropy (at alpha=infinity),-0.0266121265890077
+connective cells: kurtosis of their axis_minor_length,-0.027592556330509936
+neoplastic cells: std of their area,-0.02792605181233006
+connective cells: std of their orientation,-0.028383855095249676
+necrosis cells: std of their contrast,-0.028776809303982312
+connective cells: kurtosis of their intensity_skew,-0.029226890648507173
+connective cells: mean of their area,-0.030313585976785875
+inflamatory cells: kurtosis of their solidity,-0.030983763830563716
+no-neoplastic cells: mean of their axis_major_length,-0.031331703922165
+connective cells: kurtosis of their solidity,-0.03316309548703363
+neoplastic cells: kurtosis of their orientation,-0.03467617805976915
+no-neoplastic cells: skew of their solidity,-0.034971165386674594
+neoplastic cells: skew of their energy,-0.035701745781523936
+connective cells: kurtosis of their intesntiy_kurtosis,-0.036425631897935316
+inflamatory cells: kurtosis of their intensity_mean,-0.03696880649667839
+neoplastic cells: skew of their homogeneity,-0.038175638124392536
+no-neoplastic cells: mean of their perimeter,-0.03891778840372388
+Infiltration of connective cells in neoplastic region,-0.039268252201208415
+no-neoplastic cells: skew of their eccentricity,-0.04062089320227955
+neoplastic cells: std of their eccentricity,-0.04106398572457129
+connective cells: kurtosis of their orientation,-0.04127071672579621
+inflamatory cells: kurtosis of their intensity_skew,-0.04138912354183553
+connective cells: kurtosis of their energy,-0.04180737068770959
+connective cells: kurtosis of their homogeneity,-0.04199530791584968
+inflamatory cells: kurtosis of their eccentricity,-0.042041030615277857
+inflamatory cells: kurtosis of their energy,-0.042274760122792195
+inflamatory cells: std of their dissimilarity,-0.043122174142144865
+inflamatory cells: kurtosis of their homogeneity,-0.0432565819704165
+Infiltration of inflamatory cells in neoplastic region,-0.04421854445637123
+connective cells: skew of their homogeneity,-0.045550097025194226
+inflamatory cells: std of their intensity_skew,-0.046972957508502916
+no-neoplastic cells: mean of their area,-0.046997390811519046
+Gloabl Shannon index,-0.04820870136602396
+inflamatory cells: std of their energy,-0.04941767631705567
+neoplastic cells: skew of their eccentricity,-0.05040123578310412
+necrosis cells: std of their intensity_std,-0.05047963541661779
+connective cells: skew of their energy,-0.051065092551855665
+neoplastic cells: std of their dissimilarity,-0.051128019459304994
+inflamatory cells: kurtosis of their orientation,-0.051212661265652715
+Graph modularity with cell types as community,-0.05133123368533821
+connective cells: std of their intensity_std,-0.0516023803043209
+Infiltration of no-neoplastic cells in neoplastic region,-0.052851152721891205
+necrosis cells: std of their intensity_mean,-0.05380442835239985
+neoplastic cells: kurtosis of their homogeneity,-0.055637747534506565
+neoplastic cells: kurtosis of their area,-0.05695712297386834
+kurtosis of cells' clustering_coefficient,-0.05956849859915027
+neoplastic cells: kurtosis of their perimeter,-0.06013135641028992
+neoplastic cells: kurtosis of their energy,-0.06032702401265171
+neoplastic cells: mean of their orientation,-0.06121169885917765
+inflamatory cells: kurtosis of their area,-0.06280007866247603
+no-neoplastic cells: mean of their axis_minor_length,-0.06285809272696766
+no-neoplastic cells: mean of their dissimilarity,-0.06524744915146316
+inflamatory cells: std of their area,-0.06559924713869736
+connective cells: std of their axis_minor_length,-0.06593999608039376
+inflamatory cells: mean of their orientation,-0.06648790531410591
+neoplastic cells: kurtosis of their axis_minor_length,-0.06679984616130372
+connective cells: std of their eccentricity,-0.066834315787747
+inflamatory cells: kurtosis of their axis_minor_length,-0.06773519999074902
+skew of cells' degree,-0.0694842531820774
+skew of cells' degree_centrality,-0.06948425318207758
+neoplastic cells: mean of their perimeter,-0.06963857544152692
+inflamatory cells: std of their axis_minor_length,-0.07017913035024347
+necrosis cells: mean of their dissimilarity,-0.07022421058196664
+inflamatory cells: mean of their dissimilarity,-0.07095418174986687
+neoplastic cells: mean of their axis_major_length,-0.07273478543488715
+connective cells: std of their contrast,-0.07294127107681556
+no-neoplastic cells: mean of their solidity,-0.0761010097043833
+neoplastic cells: mean of their axis_minor_length,-0.07695688155865675
+neoplastic cells: kurtosis of their solidity,-0.07758743048291879
+neoplastic cells: mean of their area,-0.0779549783073509
+inflamatory cells: kurtosis of their axis_major_length,-0.07797773827987323
+no-neoplastic cells: mean of their intensity_std,-0.07926002042005399
+necrosis cells: std of their axis_major_length,-0.07931959029426817
+connective cells: mean of their axis_minor_length,-0.08019398566811929
+no-neoplastic cells: mean of their contrast,-0.0804287329217247
+inflamatory cells: kurtosis of their perimeter,-0.08247869914341815
+inflamatory cells: std of their intensity_std,-0.08596230880904307
+connective cells: mean of their intensity_std,-0.08649264622591929
+inflamatory cells: std of their intensity_mean,-0.08763006736274878
+inflamatory cells: std of their orientation,-0.08804299070081992
+necrosis cells: std of their perimeter,-0.09038460900015165
+connective cells: mean of their dissimilarity,-0.09280676211544137
+inflamatory cells: std of their contrast,-0.0947872382841033
+std of cells' degree_centrality,-0.09646881814203873
+connective cells: std of their intensity_mean,-0.09771339843486775
+necrosis cells: std of their axis_minor_length,-0.09974581721445964
+connective cells: mean of their solidity,-0.10006127699095878
+min of cells' degree_centrality,-0.1032877211233357
+mean of cells' degree_centrality,-0.10370146171769581
+necrosis cells: std of their area,-0.10435950643151928
+inflamatory cells: std of their eccentricity,-0.10560285365141714
+no-neoplastic cells: mean of their intensity_mean,-0.10652624209175643
+max of cells' degree_centrality,-0.10922149058470718
+skew of cells' clustering_coefficient,-0.10971789688046629
+inflamatory cells: mean of their intensity_std,-0.10973142771989249
+necrosis cells: mean of their contrast,-0.11008745364570484
+connective cells: mean of their contrast,-0.11715315082682937
+inflamatory cells: mean of their solidity,-0.11753058264708341
+neoplastic cells: mean of their intensity_std,-0.12456166457466133
+connective cells: mean of their intensity_mean,-0.12497752060637422
+inflamatory cells: mean of their contrast,-0.12732097112880944
+necrosis cells: mean of their intensity_std,-0.1314647746164781
+kurtosis of cells' degree,-0.13216983991919945
+kurtosis of cells' degree_centrality,-0.13216983991919953
+neoplastic cells: std of their intensity_mean,-0.13737427752264844
+min of cells' closeness_centrality,-0.13777036648008117
+min of cells' clustering_coefficient,-0.138971497395185
+neoplastic cells: mean of their solidity,-0.1433096873753142
+necrosis cells: mean of their axis_minor_length,-0.14469992318315006
+necrosis cells: mean of their area,-0.1497061071629804
+mean of cells' degree,-0.15237675292809139
+necrosis cells: mean of their axis_major_length,-0.1527525246000597
+inflamatory cells: mean of their intensity_mean,-0.15403000609367834
+necrosis cells: mean of their perimeter,-0.15467919794714827
+neoplastic cells: std of their contrast,-0.15523791249535662
+std of cells' degree,-0.1560668098159448
+mean of cells' closeness_centrality,-0.16455256424222114
+mean of cells' clustering_coefficient,-0.165062856908035
+neoplastic cells: mean of their intensity_mean,-0.1651110077408375
+inflamatory cells: mean of their axis_minor_length,-0.16549019587849526
+max of cells' closeness_centrality,-0.1684130024956115
+necrosis cells: mean of their intensity_mean,-0.17110832215976143
+inflamatory cells: mean of their area,-0.17743846967962887
+neoplastic cells: mean of their dissimilarity,-0.179067304659054
+std of cells' clustering_coefficient,-0.17936189698380325
+max of cells' clustering_coefficient,-0.1798168585438469
+inflamatory cells: mean of their perimeter,-0.1806809186075746
+std of cells' closeness_centrality,-0.18407045448034615
+inflamatory cells: mean of their axis_major_length,-0.18773418492838584
+neoplastic cells: mean of their contrast,-0.2082118729257665
+max of cells' degree,-0.2104357636842594
+neoplastic cells: k-function at radius 896 pixels,-0.28761003369456695
+neoplastic cells: k-function at radius 224 pixels,-0.30015159189032153
+neoplastic cells: k-function at radius 672 pixels,-0.30333396991447054
+neoplastic cells: k-function at radius 448 pixels,-0.3068281309185902
+percent_of_background_region,-0.492544377490796
