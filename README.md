@@ -40,14 +40,14 @@ HE2FISH extracts patch features using [UNI2-h](https://github.com/mahmoodlab/uni
 Of course, you can also train the backbone from scratch.
 
 ### 2.4 Training
-Training your HEFISH:
+Training your HE2FISH:
 ``` sh
 python trainer_moe_scale.py # only pathology
 python trainer_moe_clinic.py # pathology with electric health record
 ```
 
 ### 2.5 Testing
-Testing your HEFISH:
+Testing your HE2FISH:
 ``` sh
 python tester_moe.py # only pathology
 python tester_moe_with_clinic.py # pathology with electric health record
