@@ -1,5 +1,5 @@
 # HE2FISH 
-The official implementation of **Data-efficient deep learning for gene rearrangement status prediction in DLBCL** (Under review in npj Digital Medicine). 
+The official implementation of **Data-efficient deep learning for gene rearrangement status prediction in DLBCL** (Under review in _npj Digital Medicine_). 
 ## 1. Introduction <img src="Images/ICON.png" width="150px" align="right" />
 ### 1.1 Background
 Diffuse large B-cell lymphoma (DLBCL) is the most common lymphoid malignancy, comprising about 30% of adult cases. Current DLBCL examination workflows face challenges because conventional FISH is time-consuming, tissue-intensive, and costly. 
