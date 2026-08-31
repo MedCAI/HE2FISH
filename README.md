@@ -1,4 +1,4 @@
-# [NPJ Digital Medicine 2026] HE2FISH 
+# HE2FISH 
 The official implementation of **Data-efficient deep learning for gene rearrangement status prediction in DLBCL** (Accepted at _npj Digital Medicine 2026_). 
 ## 1. Introduction <img src="Images/ICON.png" width="150px" align="right" />
 ### 1.1 Background
